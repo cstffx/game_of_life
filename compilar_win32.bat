@@ -1,0 +1,1 @@
+cl /EHsc /O2 /favor:INTEL64 main.cpp User32.lib 
